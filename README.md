@@ -1,6 +1,6 @@
 **IMDB-Movie-Review-Classifier**
 
-The "Movie Review Classifier" project focuses on sentiment analysis within the realm of Natural Language Processing (NLP). It aims to categorize movie reviews as positive or negative by leveraging various machine-learning techniques. The study evaluates three distinct models: a basic neural network, an LSTM-based architecture, and a bidirectional LSTM configuration.
+The "Movie Review Classifier" project focuses on sentiment analysis within the realm of Natural Language Processing. It aims to categorize movie reviews as positive or negative by leveraging various machine-learning techniques. The study evaluates three distinct models: a basic neural network, an LSTM-based architecture, and a bidirectional LSTM configuration.
 
 ![ImDB Movie review classifier](https://github.com/AdibReza/IMDB-Movie-Review-Classifier/assets/92293886/a31e45a0-2a78-4764-bc79-8190f32a7b4b)
 
