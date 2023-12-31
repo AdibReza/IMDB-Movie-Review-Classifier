@@ -1,9 +1,9 @@
-# Sentiment-analysis-LSTM-GRU-
-Dataset: https://drive.google.com/file/d/1hyn6U44cvUNedMnzPHzHsiBgXMHFBjBw/view  
+**IMDB-Movie-Review-Classifier**
 
-glove: https://nlp.stanford.edu/projects/glove/
+The "Movie Review Classifier" project focuses on sentiment analysis within the realm of Natural Language Processing (NLP). It aims to categorize movie reviews as positive or negative by leveraging various machine-learning techniques. The study evaluates three distinct models: a basic neural network, an LSTM-based architecture, and a bidirectional LSTM configuration.
 
-In the CSE440 Project for Fall 2023, I embarked on a comprehensive exploration of Natural Language Processing (NLP) techniques, specifically focusing on sentiment analysis of IMDB movie reviews. 
+![ImDB Movie review classifier](https://github.com/AdibReza/IMDB-Movie-Review-Classifier/assets/92293886/a31e45a0-2a78-4764-bc79-8190f32a7b4b)
+
 
 **Tasks Undertaken:**
 1. **Data Preprocessing:** Utilized Pandas to load and preprocess the IMDB review dataset.
