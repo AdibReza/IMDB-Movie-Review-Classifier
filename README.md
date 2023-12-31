@@ -1,4 +1,6 @@
 # Sentiment-analysis-LSTM-GRU-
+Dataset: https://drive.google.com/file/d/1hyn6U44cvUNedMnzPHzHsiBgXMHFBjBw/view
+glove: https://nlp.stanford.edu/projects/glove/
 
 In the CSE440 Project for Fall 2023, I embarked on a comprehensive exploration of Natural Language Processing (NLP) techniques, specifically focusing on sentiment analysis of IMDB movie reviews. 
 
